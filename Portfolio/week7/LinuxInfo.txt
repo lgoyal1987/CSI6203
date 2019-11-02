@@ -1,0 +1,4 @@
+This file contains information
+The next line contains the word Linux!
+Some of this information is about Linux
+Some of this information is not.
