@@ -1,0 +1,11 @@
+The file is downloaded.
+    \033[31mEROOR:\033[0m $1
+This is the start of the script
+Thank you!
+Thank you!
+    \033[31mEROOR:\033[0m $1
+You have guessed the right number
+Number is too low
+Number is too high
+    \033[31m$VAR1
+   The area for a triangle with base: $base and height: $height is:  $(($base*$height/2))
